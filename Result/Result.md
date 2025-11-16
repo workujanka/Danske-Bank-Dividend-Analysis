@@ -13,7 +13,7 @@ These metrics are especially useful for long-term investors, financial educators
 Dividend Growth Over Time
 Chart Summary: This bar chart shows the year-over-year percentage change in dividend per share.
 
-![Dividend Growth Over Time](Result/Dividend Growth Over Time.png)
+![Dividend Growth Over Time](Result/Dividend%Growth%Over%Time.png)
 
 Insights:
 
@@ -28,7 +28,7 @@ Interpretation: Dividend growth reveals how external shocks and internal strateg
 Payout Ratio Trends
 Chart Summary: This chart tracks the percentage of net income paid out as dividends each year.
 
-![Payout Ratio Trends](Result/Payout Ratio Trends.png)
+![Payout Ratio Trends](Result/Payout%Ratio%Trends.png)
 
 Insights:
 
