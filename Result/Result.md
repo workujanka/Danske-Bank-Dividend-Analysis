@@ -1,7 +1,9 @@
 📊 Danske Bank Dividend Analysis (1994–2024)
+
 This analysis explores Danske Bank’s dividend performance over 30 years using two key financial KPIs: Dividend Growth and Payout Ratio Trends. The data was processed and visualized using SQLite for structured querying and Excel for charting and interpretation.
 
 🔹 Why These Two KPIs?
+
 We selected Dividend Growth and Payout Ratio because they offer the clearest lens into:
 
 Shareholder reward patterns — how payouts evolved across crises and recoveries.
@@ -11,6 +13,7 @@ Corporate strategy — how much profit the bank chose to distribute versus retai
 These metrics are especially useful for long-term investors, financial educators, and dividend policy analysts.
 
 📈 Dividend Growth Over Time
+
 Chart Summary: This bar chart shows the year-over-year percentage change in dividend per share.
 ![Dividend Growth Over Time](Dividend%20Growth%20Over%20Time.png)
 
@@ -26,6 +29,7 @@ Insights:
 Interpretation: Dividend growth reveals how external shocks and internal strategy shape shareholder returns. It’s a dynamic signal of confidence, caution, or recovery.
 
 📊 Payout Ratio Trends
+
 Chart Summary: This chart tracks the percentage of net income paid out as dividends each year.
 
 ![Payout Ratio Trends](Payout%20Ratio%20Trends.png)
